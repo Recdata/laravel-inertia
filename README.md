@@ -2,9 +2,9 @@
 
 A laravel inertiajs vuetify starterkit
 
-## Demo
+<!-- ## Demo
 
-You can access demo app in : <https://laravel-inertia-vuetify.fly.dev>
+You can access demo app in : <https://laravel-inertia-vuetify.fly.dev> -->
 
 ## Features
 
@@ -23,8 +23,8 @@ You can access demo app in : <https://laravel-inertia-vuetify.fly.dev>
 Clone repo locally
 
 ```bash
-git clone https://github.com/ahmadfaizk/laravel-inertiajs-vuetify-starterkit
-cd laravel-inertiajs-vuetify-starterkit
+git clone https://github.com/Recdata/laravel-inertia.git
+cd laravel-inertia
 ```
 
 Install PHP dependencies
